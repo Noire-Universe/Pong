@@ -10,7 +10,7 @@ public class Pong extends JFrame{
 		new Pong();
 	}
 	
-	//basic set up for swing:
+	//Right, we now can start working on refining this project.
 	
 	public Pong() {
 		this.setTitle("Pong Demo");
