@@ -10,6 +10,8 @@ public class Pong extends JFrame{
 		new Pong();
 	}
 	
+	//basic set up for swing:
+	
 	public Pong() {
 		this.setTitle("Pong Demo");
 		this.setSize(WIDTH, HEIGHT);
