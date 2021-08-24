@@ -18,6 +18,7 @@ Mainly I will use a range of randomizers for x axis, y axis, vertical speed and 
 on a player or on impact on the left or right border. Impact on the top or bottom of the screen should NOT change the 
 current behaviour of the ball.
 
+##Requirements:
 ### Affected classes:
 ...to be determined
 
