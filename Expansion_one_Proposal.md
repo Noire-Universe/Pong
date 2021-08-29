@@ -18,12 +18,13 @@ Mainly I will use a range of randomizers for x axis, y axis, vertical speed and 
 on a player or on impact on the left or right border. Impact on the top or bottom of the screen should NOT change the 
 current behaviour of the ball.
 
-##Requirements:
-### Affected classes:
-...to be determined
+## Requirements:
+### Requirements Gathering:
+#### Questions to be answered:
+1 Is a new technology needed to development the upgrade of the game?
+2 What is the impact in all aspects if we not do the upgrade?
+3 What are the current problems the game has?
+4 How will the upgrade alleviate the above concerns?
+5 What will be some of the development and integration problems e3ncountered  by the system's update
 
-### Affedcted variables
-...to be determined
-
-### Stages of the project
-...to be determined
+#### Requirements formulated in prose text:
