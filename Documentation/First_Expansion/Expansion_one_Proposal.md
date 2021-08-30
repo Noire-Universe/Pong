@@ -18,3 +18,30 @@ Mainly I will use a range of randomizers for x axis, y axis, vertical speed and 
 on a player or on impact on the left or right border. Impact on the top or bottom of the screen should NOT change the 
 current behaviour of the ball.
 
+
+-------------------------------------------------------
+# Proposal Cover:
+1. Name of the project: -> Pong iteration phase I
+2. Project Reference number: -> N/A
+3. Name of the adressee: -> Whoever may be interested in it
+4. Name of Noire and contact information (email): -> noireuniverse@gmail.com
+5. Date of finalization of proposal: -> TBC
+
+# Proposal executive Summary:
+1. Intro
+2. The Challenge
+3. The Solution
+4. The Proof
+5. Call to Acton
+
+### Temporary proposal structure guide:
+1. Proposal Cover
+2. Proposal executive Summary
+3. My approach/Solution
+4. Project Deliverables
+5. Project Milestones
+6. Budget / Investement
+7. About me
+8. Case studies / Testimonials
+9. Clients / References
+10. Terms and Conditions / Next steps
