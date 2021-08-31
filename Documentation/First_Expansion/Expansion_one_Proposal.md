@@ -21,27 +21,39 @@ current behaviour of the ball.
 
 -------------------------------------------------------
 # Proposal Cover:
-1. Name of the project: -> Pong iteration phase I
-2. Project Reference number: -> N/A
-3. Name of the adressee: -> Whoever may be interested in it
-4. Name of Noire and contact information (email): -> noireuniverse@gmail.com
-5. Date of finalization of proposal: -> TBC
+- Pong iteration phase I
+- #NS-P1
+- To the casual reader of the internet.
+- Contact us on: noireuniverse@gmail.com
+- St Ives, 31st September 2021
 
 # Proposal executive Summary:
-1. Intro
-2. The Challenge
-3. The Solution
-4. The Proof
-5. Call to Acton
+## Intro:
+The Pong game in its current state is a nice demo for very simple game mechanics and how these mechanics can be implementd in Java on a very basic level. But in its current state the game is extremely predictable and is getting boring very quickly. The first iteration phase's intention is to make the game less predictable and therefore more engaging with the player.
+
+## The Challenge:
+Player feedback most often stated that the 'game was nice' but getting very boring. And indeed playing this particular version of Pong is barely more than a walk down meory lane. The main reason for this appears to be in the behaviour of the ball which becomse very predictable very early on after starting the game, which leads to the game failing capturing and the player and keeping the player interested. Both of which (capturing and keeping the interest) are vital for a game to appear interesting.
+
+## The Solution:
+The trick to keep player interested for longer lies in a less predictable behaviour of the ball itself. A simple randomizer on impact, that affects the direction and the speed of the ball itself, will generate enough unpredictability to force the player to concentrate more, which will natrually require a higher level of engagement. The randomizer can be implemented to support a sliding scale of the severity of randomization, which could be used on a later stage to further refine the game itself. But for this stage the randomizer shall be enough to increase player capturing and therefore keeping them interested for longer.
+
+## The Proof:
+Noire-Universe has been involved in very similar recent project where this kind of randomization achieved exactly the desired effect. Further experiance with the fine tuning and scaling of the randimization effects based on the previous project will be a perfect starting point for a swift and homogenous implementation of the feature.
+
+## Call to Action:
+From the recoginition to the solution of the problem, this project is perfectly suited to the Noire-Universe's current skill sets and expertise. Polishing an old school Pong without sacrificing its essence by heavy compteporization, was something Noire-Universe wanted to do for a long time and is therefore excited to finally given the chance to take a shot on it.
+
+## Our Approach and Solution:
+
 
 ### Temporary proposal structure guide:
-1. Proposal Cover
-2. Proposal executive Summary
-3. My approach/Solution
-4. Project Deliverables
-5. Project Milestones
-6. Budget / Investement
-7. About me
-8. Case studies / Testimonials
-9. Clients / References
-10. Terms and Conditions / Next steps
+- [x]  Proposal Cover
+- [x] Proposal executive Summary
+- [ ] My approach/Solution
+- [ ] Project Deliverables
+- [ ] Project Milestones
+- [ ]  Budget / Investement
+- [ ] About me
+- [ ] Case studies / Testimonials
+- [ ] Clients / References
+- [ ] Terms and Conditions / Next steps
