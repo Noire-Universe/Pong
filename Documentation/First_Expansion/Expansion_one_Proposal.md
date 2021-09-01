@@ -20,35 +20,35 @@ Noire-Universe has been involved in very similar recent project where this kind 
 ## Call to Action:
 From the recoginition to the solution of the problem, this project is perfectly suited to the Noire-Universe's current skill sets and expertise. Polishing an old school Pong without sacrificing its essence by heavy compteporization, was something Noire-Universe wanted to do for a long time and is therefore excited to finally given the chance to take a shot on it.
 
-# Our Approach and Solution:
+## Our Approach and Solution:
 Noire-Universe intends to leave the essence of the game primarily as it is. No changes to the graphical apperance are planned. We find it important to leave the experiance as close to the original Pong as possible. The main challenge of this project is to implement very subltle changes that force the player to focus more on the game by reducing the predictability of the game. We intend to achive this by adding subtle speed and directional randomizers on impact of the ball on the player. Further we will have a speed and directional randomizer on restart of the ball as well as a very slight directional randomizer on collision of the ball and the upper or the lower bounds of the playing field.
 
-# Project Deliverables:
+## Project Deliverables:
 The sole deliverable of this iteration is an upgraded ball behaviour that is more felt by the player rather than seen.
 
-# Project Milestones:
+## Project Milestones:
 There are three main areas which will be affected by the changes and we intend tackling them one after another so
-## First Milestone:
+### First Milestone:
 The ball will slightly have randomized speed and direction on implact with the player bar or the AI bar. Noire-Universe will deliver this milestone after one week.
-## Second Milestone:
+### Second Milestone:
 The bell will have a randomized reset after the player or the AI scorees a point (the direction still will be towards the scoring entity). Noire-Universe will deliver this milestone one week after reaching the first milestone
-## Third Milestone:
+### Third Milestone:
 The ball will slightly change the angle on impact with the top or the bottom border of the playing field. The general direction will not change but the out going angle will no longer equal the incomming angle. Noire-Universe will deliver this deliverable one week after reaching the previous milestone.
-## Fourth (and final) Milestone:
+### Fourth (and final) Milestone:
 Adjusting and ballancing will be done to make sure the three different areas will have a gaming feel that feels genuine and that the different impacts of the ball appear to happen in the same frame of physics. Noire-Universe will deliver the ballancing one week after the third milestone has been delivered.
 
-# Budget:
+## Budget:
 Time is the only investment that will have to be done in this iteration.
 
-# About us:
+## About us:
 We are Noire-Universe!
 
-# Case studies:
+## Case studies:
 No case studies are aplicable for this particular project.
 
-# Clients / References:
+## Clients / References:
 N/A
 
-# Terms and Conditions:
+## Terms and Conditions:
 N/A
 
