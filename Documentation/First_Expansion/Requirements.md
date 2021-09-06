@@ -18,6 +18,16 @@ The program shall display a ball which behaves in a much less predictable and ra
 - The ball shall maintain its current speed.
 - The ball shall randomly alter its exit angle by a predetermined range.
 
+## Analysis:
+- What is the scope of the problem? \
+  It is on a very small scope with hardly any impact
+- What is the best way to automate? \
+  Adding some randomizers into the already existing mechanics
+- Can we afford not to make this increment? \
+  Not really, to maintain the game's appeal we need to focus on capturing the player's attention
+- Will we be able to support this implementation? \
+  Once it is implemented the current support scheme will remain unchanged, therefore, yes!
+
 ## Requirements Gathering:
 
 ### Questions to be answered:
